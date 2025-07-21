@@ -19,7 +19,7 @@ A curated list of awesome projects and resources related to Hy Lang.
 
 # Hy projects
 
-To explore hy projects on github use search: https://github.com/search?q=language%3AHy%20&type=repositories
+> To explore hy projects on github use search: https://github.com/search?q=language%3AHy%20&type=repositories
 
 Functional programming:
 * https://github.com/pyx/hymn - monad library for hy
