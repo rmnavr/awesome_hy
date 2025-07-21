@@ -41,7 +41,11 @@ Prettifying syntax, utility macros:
 
 # Resources
 
+Books and posts:
 * https://leanpub.com/hy-lisp-python - «A Lisp Programmer Living in Python-Land» by Mark Watson, book about hy in context of OpenAI GPT, LangChain, Knowledge Graphs, NLP, Deep Learning
   * https://github.com/mark-watson/hy-lisp-python - examples from book
 * https://notes.pault.ag/hy-survival-guide/ - hy styling guide from Paultag
+
+Videos and podcasts:
+* *ADD*
 
