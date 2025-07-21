@@ -31,6 +31,9 @@ Tools for better REPL:
 * https://github.com/allison-casey/HyREPL - implementation of the nREPL for hy
 * https://github.com/atisharma/hyjinx - functions and macros useful for modern living in the hy REPL
 
+IDE support:
+* https://github.com/hylang/vim-hy - vim syntax highlight for hy
+
 LSP Servers for Hy:
 * https://github.com/sakuraiyuta/hyuga
 * https://github.com/rinx/hy-language-server
