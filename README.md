@@ -33,10 +33,8 @@ Tools for better REPL:
 
 IDE support:
 * https://github.com/hylang/vim-hy - vim syntax highlight for hy
-
-LSP Servers for Hy:
-* https://github.com/sakuraiyuta/hyuga
-* https://github.com/rinx/hy-language-server
+* https://github.com/sakuraiyuta/hyuga - LSP for hy
+* https://github.com/rinx/hy-language-server - LSP for hy
 
 Prettifying syntax, utility macros:
 * https://github.com/Kodiologist/Kodhy - utility macros used by core hy dev
