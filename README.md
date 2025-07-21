@@ -21,14 +21,23 @@ A curated list of awesome projects and resources related to Hy Lang.
 
 To explore hy projects on github use search: https://github.com/search?q=language%3AHy%20&type=repositories
 
+Libraries:
 * https://github.com/pyx/hymn - monad library for hy
+* *ADD MORE*
+
+Tools for better REPL:
 * https://pypi.org/project/hy-ipython/, https://sr.ht/~wintershadows/hy-ipython/ - enables `%hy` and `%%hy` magic in py REPL
   * works with hy 1.0.0, despite docs saying it requires exactly hy 0.24
+* *ADD: Jupiter, calisto, colorfull REPL*
 
-TODO categories:
-* LSP servers
-* REPL/Jupiter
-* Renamings of core funcs (clojurian, lispy, etc.)
+LSP Servers:
+* *ADD*
+
+Prettifying syntax, utility macros:
+* *ADD: clojurian/lispy syntax libs*
+* *ADD: macro lib of core dev (to find)*
+
+*ADD: other categories*
 
 # Resources
 
