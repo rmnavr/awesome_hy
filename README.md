@@ -36,17 +36,17 @@ LSP Servers for Hy:
 * https://github.com/rinx/hy-language-server
 
 Prettifying syntax, utility macros:
+* https://github.com/Kodiologist/Kodhy - utility macros used by core hy dev
 * https://github.com/atisharma/beautifhy - hy autoformatter
 * https://github.com/riktor/hycl - common-lisp-flavoured syntax 
 * https://github.com/guanyilun/hylab - common-lisp-flavoured syntax 
 * https://github.com/danneu/hyclops - clojurian-flavoured syntax
-* https://github.com/Kodiologist/Kodhy - utility macros used by core hy dev
 
 # Resources
 
 Literature, blogposts, guides:
 * https://github.com/ltrel/hylang-examples - beginner-level examples for hy
-* https://leanpub.com/hy-lisp-python - «A Lisp Programmer Living in Python-Land» by Mark Watson, book about hy in context of ML
+* https://leanpub.com/hy-lisp-python - «A Lisp Programmer Living in Python-Land» by Mark Watson, book about hy mostly in ML domain
   * https://github.com/mark-watson/hy-lisp-python - examples from book
 * https://notes.pault.ag/hy-survival-guide/ - hy styling guide from Paultag
 * https://github.com/brackendev/scikit-learn-Hy - introduction to hy and scikit-learn in hy
