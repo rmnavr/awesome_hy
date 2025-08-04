@@ -43,6 +43,7 @@ Prettifying syntax, utility macros:
 * https://github.com/riktor/hycl - common-lisp-flavoured syntax 
 * https://github.com/guanyilun/hylab - common-lisp-flavoured syntax 
 * https://github.com/danneu/hyclops - clojurian-flavoured syntax
+* https://github.com/rmnavr/wy/ - hy-lang without parentheses
 
 # Resources
 
