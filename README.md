@@ -56,6 +56,7 @@ Literature, blogposts, guides:
   * https://github.com/mark-watson/hy-lisp-python - examples from book
 * https://notes.pault.ag/hy-survival-guide/ - hy styling guide from Paultag
 * https://github.com/brackendev/scikit-learn-Hy - introduction to hy and scikit-learn in hy
+* https://ravrlab.ru/en/cs/langs/hy/why_hy/ - blog post about reasons to use Hy
 
 Videos and podcasts:
 * *ADD*
