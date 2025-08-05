@@ -45,6 +45,9 @@ Prettifying syntax, utility macros:
 * https://github.com/danneu/hyclops - clojurian-flavoured syntax
 * https://github.com/rmnavr/wy/ - hy-lang without parentheses
 
+Frontend dev:
+* https://github.com/Arkelis/hyccup - port of Hiccup (clojurian lib to represent HTML) to Hy
+
 # Resources
 
 Literature, blogposts, guides:
