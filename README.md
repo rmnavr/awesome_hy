@@ -41,12 +41,12 @@ A curated list of awesome projects and resources related to Hy Lang.
 * [hymn](https://github.com/pyx/hymn): monad library for hy
 
 ### Syntax changes & utility macros
-* https://github.com/Kodiologist/Kodhy: utility macros used by core hy dev
-* https://github.com/atisharma/beautifhy: hy autoformatter
-* https://github.com/riktor/hycl: common-lisp-flavoured syntax 
-* https://github.com/guanyilun/hylab: common-lisp-flavoured syntax 
-* https://github.com/danneu/hyclops: clojurian-flavoured syntax
-* https://github.com/rmnavr/wy/: hy-lang without parentheses
+* [Kodhy](https://github.com/Kodiologist/Kodhy): utility macros used by core hy dev
+* [beautifhy](https://github.com/atisharma/beautifhy): hy autoformatter
+* [hycl](https://github.com/riktor/hycl): common-lisp-flavoured syntax 
+* [Hylab](https://github.com/guanyilun/hylab): common-lisp-flavoured syntax 
+* [Hyclops](https://github.com/danneu/hyclops): clojurian-flavoured syntax
+* [Wy](https://github.com/rmnavr/wy/): hy-lang without parentheses
 
 ## ⚒️ Projects
 
