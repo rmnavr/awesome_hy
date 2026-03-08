@@ -41,7 +41,7 @@ A curated list of awesome projects and resources related to Hy Lang.
 ### Functional programming
 
 * [hymn](https://github.com/pyx/hymn): monad library for hy
-* [fptk](https://github.com/rmnavr/fptk): functional programming toolkit for hy
+* [fpmx](https://github.com/rmnavr/fpmx): toolkit for functional programming with math applications in hy
 
 ### Syntax changes & utility macros
 
